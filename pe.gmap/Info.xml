@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<MapProduct xmlns="http://www.garmin.com/xmlschemas/MapProduct/v1">
+
+  <Name>UMP-pcPL-pelna</Name>
+
+  <DataVersion>499</DataVersion>
+
+  <DataFormat>NT</DataFormat>
+
+  <ID>122</ID>
+
+  <IDX>UMP-pcPL-pe.mdx</IDX>
+
+  <MDR>UMP-pcPL-pe_mdr</MDR>
+
+  <SubProduct>
+    <Name>UMP-pcPL</Name>
+    <ID>1</ID>
+    <BaseMap>UMP-pcPL-pe</BaseMap>
+    <TDB>UMP-pcPL-pe.tdb</TDB>
+    <Directory>Product1</Directory>
+  </SubProduct>
+
+</MapProduct>
